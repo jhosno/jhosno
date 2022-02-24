@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jhosno" target="blank"><img src="https://img.shields.io/twitter/follow/jhosno?logo=twitter&style=for-the-badge" alt="jhosno" /></a> </p>
 
-- 🔭 I’m currently working on **Content manager**
+- 🔭 I’m currently working on **My blog content** and **personal proyects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning more about **React JS** and **english**
 
 - 👨‍💻 All of my projects are available at [jhosno.github.io](jhosno.github.io)
 
